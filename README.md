@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho com Software em Nuvem.
 - 🌱 Estudando Engenharia de Software.
-- ⚡ Aprendendo: Node.JS e Wordpress/Element.
+- ⚡ Nuxt.JS, Next.JS, Vue e react
 
 
 
