@@ -1,10 +1,10 @@
 ### Olá! Meu nome é Rafael Lara. Tudo bem?
 
 
-- 🔭 Atualmente trabalho como Freelancer.
+- 🔭 Estágiario
 - ❤️ Python and Front-end
 - 🌱 Estudando Engenharia de Software.
-- ⚡ Nuxt.JS, Next.JS, Vue, React, Python
+- ⚡ Project = Do estágio ao Desenvolvedor Jr.
 
 
 
