@@ -11,9 +11,8 @@
 <div align="center">
   <a href="https://github.com/faellm">
   <img align ="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=faellm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-     <img align="center" height= "180em" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif](https://media.giphy.com/media/kc6n0RKTFbDJC/giphy.gif)">
-    <div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/YYW0hHizzIOrlhimPG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-system-alliance-YYW0hHizzIOrlhimPG">via GIPHY</a></p>
-</div>
+     <img align="center" height= "180em" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[[https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif](https://media.giphy.com/media/kc6n0RKTFbDJC/giphy.gif)](https://media3.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e473jbbopacbyprs1fwf1gdo6k1gm8arrxs9786zv1k&rid=giphy.gif&ct=g)">
+    
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
