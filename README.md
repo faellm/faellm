@@ -11,6 +11,7 @@
 <div align="center">
   <a href="https://github.com/faellm">
   <img align ="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=faellm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </br>
      <img align="center" height= "180em" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[[https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif](https://media.giphy.com/media/kc6n0RKTFbDJC/giphy.gif)](https://media3.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif?cid=ecf05e473jbbopacbyprs1fwf1gdo6k1gm8arrxs9786zv1k&rid=giphy.gif&ct=g)">
     
   
