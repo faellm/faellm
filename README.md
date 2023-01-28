@@ -1,12 +1,11 @@
 ### Olá! Meu nome é Rafael Lara. Tudo bem?
 
-
-- 🔭 Estágiario
-- ❤️ Python e Ciencia de dados
-- 🌱 Estudando Engenharia de Software.
-- ⚡ Project = Do estágio ao Desenvolvedor Jr.
-
-
+- Densenvolver Full-Stack Junior.
+- 5º Periodo Eng de Software.
+- Banco de Dados - Sql Server, Mysql e Oracle.
+- Python - Automação, Machine Learning, Django, Flask.
+- JavaScript - Básico
+- Node.Js - React.Js, Next.Js, Vue.Js
 
 <div align="center">
   <a href="https://github.com/faellm">
