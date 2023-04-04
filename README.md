@@ -4,7 +4,6 @@
 - 5º Periodo Eng de Software.
 - Banco de Dados - Sql Server, Mysql e Oracle.
 - Python - Automação, Machine Learning, Django, Flask.
-- JavaScript - Básico
 - Node.Js - React.Js, Next.Js, Vue.Js
 
 <div align="center">
