@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Rafael Lara. Tudo bem?
 
-- Densenvolver Full-Stack Junior.
+- Assessoria deputado
+- Desenvolvedor Python Trainee
 - 5º Periodo Eng de Software.
 - Banco de Dados - Sql Server, Mysql e Oracle.
 - Python - Automação, Machine Learning, Django, Flask.
