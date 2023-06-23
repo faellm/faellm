@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Rafael Lara. Tudo bem?
 
-- Assessoria deputado
+- Assessoria  ao Deputado
 - Desenvolvedor Python Trainee
 - 5º Periodo Eng de Software.
 - Banco de Dados - Sql Server, Mysql e Oracle.
