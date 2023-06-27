@@ -1,11 +1,9 @@
-### Olá! Meu nome é Rafael Lara. Tudo bem?
+### Desenvolvedor Python - Machine Learning 
 
-- Assessoria  ao Deputado
-- Desenvolvedor Python Trainee
-- 5º Periodo Eng de Software.
-- Banco de Dados - Sql Server, Mysql e Oracle.
-- Python - Automação, Machine Learning, Django, Flask.
-- Node.Js - React.Js, Next.Js, Vue.Js
+- Assessoria  ao Deputado - Desenvolvedor FullStack Junior
+- 5º Periodo Eng de Software
+- Automação
+- Engenharia de Dados 
 
 <div align="center">
   <a href="https://github.com/faellm">
