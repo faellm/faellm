@@ -1,38 +1,28 @@
-### Desenvolvedor Python - Machine Learning 
+# Desenvolvedor Python - Machine Learning
 
-- Assessoria  ao Deputado - Desenvolvedor FullStack Junior
-- 5º Periodo Eng de Software
-- Automação
-- Engenharia de Dados 
+Olá! Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor Python com foco em Machine Learning e tenho experiência como desenvolvedor FullStack Junior, prestando assessoria a um deputado. Atualmente, estou no 5º período do curso de Engenharia de Software.
+
+Aqui estão algumas das habilidades e áreas em que tenho conhecimento:
+
+- Desenvolvimento de aplicações Python para Machine Learning.
+- Automação de processos utilizando Python.
+- Engenharia de Dados e manipulação de grandes volumes de informações.
+- Desenvolvimento FullStack, com conhecimentos em JavaScript (Node.js), HTML5 e CSS3.
+
+No meu perfil do GitHub, você encontrará projetos que demonstram essas habilidades e conhecimentos. Fique à vontade para explorar os repositórios e contribuições.
+
+### Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/faellm">
-  <img align ="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=faellm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-     
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faellm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faellm&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
- ###
-  ###
-  
-  <div> 
- 
-  <a href="https://www.instagram.com/fael_lm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-lara-martins-668402157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
-  
-  ## Total de visitas no meu perfil :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/faellm/count.svg" />
- </p>
 
+### Contato
+
+Se você quiser entrar em contato comigo, pode me encontrar nas seguintes redes sociais:
+
+- [Instagram](https://www.instagram.com/fael_lm)
+- [LinkedIn](https://www.linkedin.com/in/rafael-lara-martins-668402157/)
+
+Sinta-se à vontade para me seguir e entrar em contato. Também estou aberto a colaborações e projetos interessantes. Obrigado por visitar meu perfil!
