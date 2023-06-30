@@ -2,6 +2,9 @@
 
 Olá! Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor Python com foco em Machine Learning e tenho experiência como desenvolvedor FullStack Junior, prestando assessoria a um deputado. Atualmente, estou no 5º período do curso de Engenharia de Software.
 
+![GIF](https://media.giphy.com/media/skTshaXoT9Hig/giphy.gif)
+
+
 Aqui estão algumas das habilidades e áreas em que tenho conhecimento:
 
 - Desenvolvimento de aplicações Python para Machine Learning.
