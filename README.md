@@ -15,7 +15,6 @@ Aqui estão algumas das habilidades e áreas em que tenho conhecimento:
 No meu perfil do GitHub, você encontrará projetos que demonstram essas habilidades e conhecimentos. Fique à vontade para explorar os repositórios e contribuições.
 
 ### Estatísticas do GitHub
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faellm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faellm&layout=compact&langs_count=7&theme=dark"/>
