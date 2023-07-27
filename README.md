@@ -25,6 +25,4 @@ No meu perfil do GitHub, você encontrará projetos que demonstram essas habilid
 Se você quiser entrar em contato comigo, pode me encontrar nas seguintes redes sociais:
 
 - [Instagram](https://www.instagram.com/fael_lm)
-- [LinkedIn](https://www.linkedin.com/in/rafael-lara-martins-668402157/)
-
 Sinta-se à vontade para me seguir e entrar em contato. Também estou aberto a colaborações e projetos interessantes. Obrigado por visitar meu perfil!
