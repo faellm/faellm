@@ -1,7 +1,5 @@
-# Desenvolvedor Python - Machine Learning
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=Olá!%Bem-vindo%ao%meu%perfil%do%GitHub. %Sou%um %desenvolvedor% Python% com% foco% em% Machine% Learning% e% tenho% experiência% como% desenvolvedor% FullStack% Junior%,% prestando% assessoria% a% um% deputado%.% Atualmente%,% estou% no% 6º% período% do% curso% de% Engenharia% de% Software%.&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=35">
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=120&section=header&text=Desenvolvedor%20FullStack%20Python&fontSize=36&animation=twinkling&fontColor=FFFFFF&fontAlignY=35">
 
 ### Estatísticas do GitHub
 <div align="center">
@@ -9,8 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faellm&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-Aqui estão algumas das habilidades e áreas em que tenho conhecimento:
-
+Aqui você irar encontrar projetos utilizando: 
 - Linguagens: Python, C/C++ e JavaScript.
 - Frameworks: Django, Flask, Pandas, OpenPyxl e Selenium.
 - Bibliotecas de Machine Learning: TensorFlow, Scikit-learn. 
