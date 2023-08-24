@@ -1,6 +1,7 @@
 # Desenvolvedor Python - Machine Learning
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=Olá!%Bem-vindo%ao%meu%perfil%do%GitHub. %Sou%um %desenvolvedor% Python% com% foco% em% Machine% Learning% e% tenho% experiência% como% desenvolvedor% FullStack% Junior%,% prestando% assessoria% a% um% deputado%.% Atualmente%,% estou% no% 6º% período% do% curso% de% Engenharia% de% Software%.&fontSize=30&animation=twinkling&fontColor=FFFFFF&fontAlignY=35">
 
-Olá! Bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor Python com foco em Machine Learning e tenho experiência como desenvolvedor FullStack Junior, prestando assessoria a um deputado. Atualmente, estou no 6º período do curso de Engenharia de Software.
+
 
 ### Estatísticas do GitHub
 <div align="center">
