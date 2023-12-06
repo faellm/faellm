@@ -10,7 +10,6 @@
 Aqui você irar encontrar projetos utilizando: 
 - Linguagens: Python, C/C++ e JavaScript.
 - Frameworks: Django, Flask, Pandas, OpenPyxl e Selenium.
-- Bibliotecas de Machine Learning: TensorFlow, Scikit-learn. 
-- Conhecimentos em Haar Cascade para detecção de objetos
+- Conhecimentos em Haar Cascade para detecção de objetos.
 
 No meu perfil do GitHub, você encontrará projetos que demonstram essas habilidades e conhecimentos. Fique à vontade para explorar os repositórios e contribuições.
